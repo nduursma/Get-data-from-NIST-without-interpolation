@@ -1,4 +1,4 @@
-# The Ultimate 'Get data from NIST/JANAF without interpolation' Repository
+# 'Get data from NIST/JANAF without interpolation' Repository
 
 This repository contains the code to obtain thermochemical data from NIST and JANAF. The Python code does the database searching and interpolation for you.
 ## Installation
